@@ -8,4 +8,4 @@ This folder homes just an index.html page and style.css page. Here, I used Boots
 This folder homes index.html - When you execute this html file, you'll see a Bootstrap horizontal form.
 
 ## L05HandsOn
-This was an assignment completed for college. Within this folder, you'll find two files that I created: index.html and style.css. This project includes the following: a header and 10 images that are centered and styled with Flexbox.
+This was an assignment completed for college. Within this folder, you'll find two files that I created: index.html and style.css. There is also a folder for all of the images that are included on this HTML document. This project includes the following: a header and 10 images that are centered and styled with Flexbox.
