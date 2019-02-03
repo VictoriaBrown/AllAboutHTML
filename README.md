@@ -3,3 +3,6 @@ This repo is home to all of my completed/WIP exercises and projects that are mai
 
 ## Bootstrap Table
 This folder homes just an index.html page and style.css page. Here, I used Bootstrap to create a table that is color-coded with a fixed width.
+
+## Horizontal Form
+This folder homes index.html - When you execute this html file, you'll see a Bootstrap horizontal form.
